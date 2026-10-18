@@ -1,2 +1,2 @@
 # demo-loginPage
-A simple login page built for practice and learning web development..
+A simple login page built for practice and learning web development.
